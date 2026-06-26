@@ -1,0 +1,1 @@
+# camera-presets-plugin
