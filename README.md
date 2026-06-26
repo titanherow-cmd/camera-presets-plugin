@@ -1,1 +1,2 @@
-# camera-presets-plugin
+# Example
+An example greeter plugin
